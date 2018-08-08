@@ -13,10 +13,10 @@ Build-Depends:
 Build-Depends-Indep:
  fontforge-nox | fontforge,
  fonttools
-Standards-Version: 4.1.1
+Standards-Version: 4.1.4
 Homepage: https://pagure.io/liberation-fonts/branch/liberation-fonts-1_07_3
-Vcs-Git: https://anonscm.debian.org/git/pkg-fonts/fonts-liberation.git
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-fonts/fonts-liberation.git/
+Vcs-Git: https://salsa.debian.org/fonts-team/fonts-liberation
+Vcs-Browser: https://salsa.debian.org/fonts-team/fonts-liberation
 
 Package: fonts-liberation
 Architecture: all
